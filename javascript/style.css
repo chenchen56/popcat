@@ -1,0 +1,24 @@
+@charset "UTF-8";
+h1 {
+    color: rgb(22, 35, 107);
+    text-align: center;
+    min-height: 5vh;
+    font-size: 70px;
+}
+h2 {
+    min-height: 2vh;
+}
+
+
+.big{
+    text-align: center;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    
+}
+
+#home{
+    background-image: url(../javascript/back.jpg);
+    min-height: 100vh;
+}
